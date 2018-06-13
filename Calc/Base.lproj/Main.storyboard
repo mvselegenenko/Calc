@@ -47,6 +47,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="0"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="r8a-iC-Qva"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YZ1-W9-jUL">
                                 <rect key="frame" x="289" y="576" width="70" height="70"/>
@@ -67,6 +70,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="1"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="PDq-Vi-5dM"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Mi-Bj-dt4">
                                 <rect key="frame" x="108" y="485" width="70" height="70"/>
@@ -77,6 +83,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="2"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Tye-Cd-zJw"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="g9v-an-AMd">
                                 <rect key="frame" x="199" y="486" width="70" height="70"/>
@@ -87,6 +96,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="3"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TKd-ZP-M2q"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eGc-Jk-QEq">
                                 <rect key="frame" x="289" y="485" width="70" height="70"/>
@@ -107,6 +119,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="4"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="m3J-pP-pK5"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="quk-6z-0od">
                                 <rect key="frame" x="108" y="394" width="70" height="70"/>
@@ -117,6 +132,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="5"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xpo-Rn-KLQ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ef6-nB-ZaO">
                                 <rect key="frame" x="199" y="395" width="70" height="70"/>
@@ -127,6 +145,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="6"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FKE-eo-edQ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nr5-OV-vrW">
                                 <rect key="frame" x="289" y="394" width="70" height="70"/>
@@ -147,6 +168,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="7"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Udh-kQ-79C"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JTJ-MV-Oa9">
                                 <rect key="frame" x="108" y="304" width="70" height="70"/>
@@ -157,6 +181,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="8"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YUd-Tb-4WF"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gP8-9a-hJE">
                                 <rect key="frame" x="199" y="305" width="70" height="70"/>
@@ -167,6 +194,9 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="40"/>
                                 <state key="normal" title="9"/>
+                                <connections>
+                                    <action selector="buttonNumber:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5pl-tF-p09"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="egu-c8-x85">
                                 <rect key="frame" x="289" y="304" width="70" height="70"/>
@@ -236,6 +266,9 @@
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="display" destination="irG-ss-1Sw" id="qrB-71-bfE"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
