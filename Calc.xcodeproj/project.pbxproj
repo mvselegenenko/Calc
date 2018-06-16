@@ -12,6 +12,7 @@
 		A119D16120D15EEB000879E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A119D15F20D15EEB000879E4 /* Main.storyboard */; };
 		A119D16320D15EED000879E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A119D16220D15EED000879E4 /* Assets.xcassets */; };
 		A119D16620D15EED000879E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A119D16420D15EED000879E4 /* LaunchScreen.storyboard */; };
+		A119D16E20D174F7000879E4 /* CalcBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = A119D16D20D174F7000879E4 /* CalcBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A119D16220D15EED000879E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A119D16520D15EED000879E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A119D16720D15EED000879E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A119D16D20D174F7000879E4 /* CalcBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A119D15B20D15EEB000879E4 /* AppDelegate.swift */,
 				A119D15D20D15EEB000879E4 /* ViewController.swift */,
 				A119D15F20D15EEB000879E4 /* Main.storyboard */,
+				A119D16D20D174F7000879E4 /* CalcBrain.swift */,
 				A119D16220D15EED000879E4 /* Assets.xcassets */,
 				A119D16420D15EED000879E4 /* LaunchScreen.storyboard */,
 				A119D16720D15EED000879E4 /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				A119D15E20D15EEB000879E4 /* ViewController.swift in Sources */,
 				A119D15C20D15EEB000879E4 /* AppDelegate.swift in Sources */,
+				A119D16E20D174F7000879E4 /* CalcBrain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
